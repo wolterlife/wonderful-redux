@@ -1,0 +1,22 @@
+.list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 3px solid #9000ff;
+    width: 210px;
+    padding: 24px;
+    margin: 20px auto;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #9000ff;
+    padding: 4px;
+    margin: 4px;
+}
+
+.title {
+    margin: 0;
+}
